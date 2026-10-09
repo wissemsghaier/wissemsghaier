@@ -4,6 +4,7 @@
 
 I design and automate secure delivery workflows, containerized platforms, and observability stacks. My experience spans CI/CD, Kubernetes operations, application development, and security monitoring.
 
+
 ![DevSecOps](https://img.shields.io/badge/Focus-DevSecOps-167D8D?style=flat-square)
 ![GitOps](https://img.shields.io/badge/Platform-GitOps-3B6C9E?style=flat-square)
 ![SOC](https://img.shields.io/badge/Security-SOC%20Automation-397B59?style=flat-square)
