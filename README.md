@@ -19,25 +19,16 @@ I build secure delivery pipelines, operate cloud-native platforms, and connect s
 - **SOC automation:** detection, alert enrichment, case management, and analyst workflows across Linux and Windows.
 - **Software engineering:** full-stack applications, REST APIs, and relational or document-oriented data stores.
 
-## Selected work
+## How I can contribute
 
-### Cloud-native DevSecOps platform
+I help engineering teams make software delivery **repeatable, secure, and easier to operate**.
 
-Designed and implemented a GitOps delivery approach for a microservices e-commerce platform on Kubernetes.
+- **Ship reliably:** build CI/CD and GitOps workflows that take services from code checks to consistent Kubernetes releases.
+- **Make security part of delivery:** integrate code, dependency, container, and policy checks into the development lifecycle.
+- **Improve operations:** make services easier to monitor and maintain with container platforms, health checks, autoscaling, and observability.
+- **Turn alerts into action:** connect endpoint detections to case management, threat-intelligence enrichment, and response workflows.
 
-- Standardized service pipelines for linting, testing, SAST/SCA, quality gates, image scanning, and artifact publishing.
-- Automated Kubernetes releases with Helm and Argo CD using an App-of-Apps structure.
-- Integrated SonarQube, Trivy, Hadolint, Nexus, HashiCorp Vault, and External Secrets Operator into delivery workflows.
-- Added operational controls including readiness checks, HPA autoscaling, Traefik ingress, and Longhorn storage.
-
-### AI-driven SOC lab
-
-Built a documented multi-platform SOC lab that links endpoint detection to investigation and enrichment.
-
-- Created Wazuh detection rules for Linux and Windows events, including firewall, authentication, auditd, and Sysmon activity.
-- Developed a Python integration that sends Wazuh alerts to TheHive, extracts observables, and reduces duplicate cases.
-- Configured Cortex and MISP enrichment with Shuffle workflows for analyst triage.
-- Added Docker Compose stacks, sample alert payloads, attack simulations, deployment scripts, and rule validation.
+I work across software engineering, platform operations, and security, translating manual processes into repeatable workflows and technical signals into useful context.
 
 ## Technologies & tools
 
